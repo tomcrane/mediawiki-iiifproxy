@@ -1,0 +1,6 @@
+Flask
+gunicorn
+requests
+flask-cors
+iiif-prezi
+html_sanitizer
