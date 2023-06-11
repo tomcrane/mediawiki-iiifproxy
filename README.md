@@ -14,7 +14,9 @@ https://iiifmediawiki.herokuapp.com/image/a/a0/Gustave_Courbet_-_A_Burial_at_Orn
 
 ### Image from Image Service
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg/1024px-Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg
+https://iiifmediawiki.herokuapp.com/image/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg/full/1024,470/0/default.jpg
+
+Note that this then _redirects_ to the available Mediawiki size. But, we could proxy it instead.
 
 ### More
 
